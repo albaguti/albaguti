@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<iframe src="https://giphy.com/embed/IbCcsxPmxGzKugAa70" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" width="100"/>
+</div>
 <!--
 **albaguti/albaguti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
