@@ -8,10 +8,10 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=albaguti&style=flat-square&color=blue" alt="" height="22"/>
 </div>
-<h1 align="center" style="border-bottom: none !important">
+<h2 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 
 ---
 
