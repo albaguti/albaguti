@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" width="100"/>
+  <img src="https://media1.giphy.com/media/IbCcsxPmxGzKugAa70/giphy.gif" width="1000"/>
 </div>
 <!--
 **albaguti/albaguti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
