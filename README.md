@@ -4,10 +4,10 @@
   <img src="https://media1.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="35%"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/albagutierrezpedemonte">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height="15"/></a>
-  <img src="https://komarev.com/ghpvc/?username=albaguti&style=flat-square&color=blue" alt="" height="15"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height="35"/></a>
+  <img src="https://komarev.com/ghpvc/?username=albaguti&style=flat-square&color=blue" alt="" height="35"/>
 </div>
 <!--
 **albaguti/albaguti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
