@@ -1,14 +1,21 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="35%"/>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/albagutierrezpedemonte">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height="25"/></a>
-  <img src="https://komarev.com/ghpvc/?username=albaguti&style=flat-square&color=blue" alt="" height="25"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height="2"/></a>
+  <img src="https://komarev.com/ghpvc/?username=albaguti&style=flat-square&color=blue" alt="" height="22"/>
 </div>
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+
+
+
 <!--
 **albaguti/albaguti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
