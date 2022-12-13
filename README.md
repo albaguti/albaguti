@@ -8,7 +8,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=albaguti&style=flat-square&color=blue" alt="" height="22"/>
 </div>
-<h1 align="center">
+<h1 align="center" style="border-bottom: none !important">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -25,7 +25,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: In my free time, I do love to 3d-print and knit with my knitting machine.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albagutierrezpedemonte/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albagutierrezpedemonte/)
 
 
 
