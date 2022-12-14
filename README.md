@@ -28,9 +28,9 @@
 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona based in Zürich, Switzerland.
 
-- :telescope: I love to develop Data Science projects, for example on <a href="https://github.com/louisarts/AIdentify_repo"> this project </a> where we have implemented real time emotion detection.
+- :telescope: I am working hard to develop Data Science projects, for example on <a href="https://github.com/louisarts/AIdentify_repo"> this project </a> where we have implemented a model able to detect emotions on people at real time.
 
-- :seedling: I love to develop projects in the area of Home Automation and Internet of things with arduinos and raspberry pies. 
+- :seedling: I love to develop projects in the area of Home Automation and Internet of things. 
 
 - :zap: In my free time, I do love to 3d-print and knit with my knitting machine.
 
