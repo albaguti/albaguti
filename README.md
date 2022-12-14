@@ -7,8 +7,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height="22"/>
   </a>
   <a href="https://www.festotuproject.com">
-    <img src="https://img.shields.io/badge/Festotu-MyWebPage-orange" alt="FestotuProject"/>
+    <img src="https://img.shields.io/badge/Festotu-MyWebPage-orange" alt="FestotuProject" height="22"/>
   </a>
+  <a href="https://www.festotuproject.etsy.com">
+    <img src="https://img.shields.io/badge/Festotu%20at%20Etsy-MyStore-yellow" alt="FestotuProject at Etsy" height="22"/>
+  </a>
+</div>
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=albaguti&style=flat-square&color=blue" alt="" height="22"/>
 </div>
 <div align="center">
