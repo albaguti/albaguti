@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/albagutierrezpedemonte">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" height="22"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" height="22"/>
   </a>
   <a href="https://www.festotuproject.com">
     <img src="https://img.shields.io/badge/Festotu-MyWebPage-orange" alt="FestotuProject" height="22"/>
