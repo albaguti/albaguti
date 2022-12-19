@@ -28,7 +28,7 @@
 
 I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona based in Zürich, Switzerland.
 
-:telescope: I am working hard to develop Data Science projects, for example on <a href="https://github.com/louisarts/AIdentify_repo"> this project </a> where we have implemented a model able to detect emotions on people at real time.
+:telescope: I am working hard to develop Data Science projects, for example on <a href="https://github.com/louisarts/AIdentify_repo"> this project </a> where we have implemented a model able to detect emotions on people at real time. Or <a href="https://github.com/albaguti/OrchidAIden"> this one </a> where I am working in a model that will be able to identify orchid species by inputing an image.
 
 :seedling: I love to develop projects in the area of Home Automation and Internet of things. 
 
