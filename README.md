@@ -16,11 +16,6 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=albaguti&style=flat-square&color=blue" alt="" height="22"/>
 </div>
-<div align="center">
-  <h1 style="border-bottom: none !important ">hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-</div>
-
 ---
 
 
