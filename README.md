@@ -22,7 +22,7 @@
 
 I am a Data Scientist from Barcelona based in Zürich, Switzerland.
 
-:telescope: I am working hard to develop Data Science projects, for example on <a href="https://github.com/albaguti/AIdentify_repo"> this project </a> where we have implemented a model able to detect emotions on people at real time. Or <a href="https://github.com/albaguti/OrchidsAIden"> this one </a> where I am working on a model that will be able to identify orchid species by inputing an image.
+:telescope: I am working hard to develop Data Science projects, for example on <a href="https://github.com/albaguti/AIdentify_repo"> the Project Aidentify </a> where we have implemented a model able to detect emotions on people at real time using a custom model which has a 81% of accuracy. Or <a href="https://github.com/albaguti/OrchidsAIden"> on OrchidsAiden </a> where I am working on a model that will be able to identify orchid species by inputing an image.
 
 :seedling: I love to develop projects in the area of Home Automation and Internet of things (IoT). 
 
