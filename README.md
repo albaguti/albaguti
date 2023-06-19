@@ -16,12 +16,11 @@
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=albaguti&style=flat-square&color=blue" alt="" height="22"/>
 </div>
----
 
 
 ### :woman_technologist: About Me :
 
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Barcelona based in Zürich, Switzerland.
+I am a Data Scientist from Barcelona based in Zürich, Switzerland.
 
 :telescope: I am working hard to develop Data Science projects, for example on <a href="https://github.com/albaguti/AIdentify_repo"> this project </a> where we have implemented a model able to detect emotions on people at real time. Or <a href="https://github.com/albaguti/OrchidsAIden"> this one </a> where I am working on a model that will be able to identify orchid species by inputing an image.
 
