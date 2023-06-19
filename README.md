@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/QuDgW7dXQfCZiWVXD4/giphy.gif" width="35%"/>
+  <h1> Alba Gutierrez Pedemonte</h1>
 </div>
 
 <div id="badges" align="center">
