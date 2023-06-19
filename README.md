@@ -26,7 +26,7 @@ I am a Data Scientist from Barcelona based in Zürich, Switzerland.
 
 :seedling: I love to develop projects in the area of Home Automation and Internet of things (IoT). 
 
-:zap: In my free time, I do love to 3d-print and knit with my knitting machine.
+:zap: In my free time, I do love to 3d-print and knit with my knitting machines.
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/albagutierrezpedemonte/)
 
